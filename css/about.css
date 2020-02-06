@@ -1,0 +1,39 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;                                                                       
+    background-color: black;
+    height: 50px;
+}
+ li{
+    float: right;
+    list-style-type: none;
+}
+ li a{
+    display: block;
+    color: white;
+    padding: 16px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    /* padding: 0; */
+}
+body{
+    background-color: mediumblue;
+}
+img{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+.footer{
+    position: fixed;
+    background-color: navajowhite;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}

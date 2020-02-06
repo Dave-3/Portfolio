@@ -1,4 +1,4 @@
-#nav ul{
+ ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -6,23 +6,34 @@
     background-color: black;
     height: 50px;
 }
-#nav li{
+ li{
     float: right;
     list-style-type: none;
 }
-#nav li a{
+ li a{
     display: block;
     color: white;
     padding: 16px 20px;
     text-align: center;
     text-decoration: none;
 }
-*{
+/* *{
     box-sizing: border-box;
     margin: 0;
-    /* padding: 0; */
-}
+    padding: 0; 
+} */
 body{
     background-image: url(https://bit.ly/2OyCN86);
+}
+h1{
+    text-align:center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: rgb(237, 243, 130);
+    font-size: 75px;
+    text-indent: inherit;
+    font-style: italic;
 }
 
