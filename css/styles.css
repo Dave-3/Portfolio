@@ -1,0 +1,29 @@
+#nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;                                                                       
+    background-color: black;
+    height: 50px;
+}
+#nav li{
+    float: right;
+    list-style-type: none;
+}
+#nav li a{
+    display: block;
+    color: white;
+    padding: 16px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#laptop{
+   height: 20em;
+   width: 30em;
+}
