@@ -19,3 +19,9 @@ ul{
     box-shadow: 3px 2px 15px white;
     
 }
+h1{
+    text-align: center;
+}
+body{
+    border-style: inset;
+}
