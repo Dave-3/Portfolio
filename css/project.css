@@ -1,15 +1,15 @@
-ul{
+.nav ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;                                                                       
     height: 50px;
 }
- li{
+ .nav li{
     float: right;
     list-style-type: none;
 }
- li a{
+ .nav li a{
     display: block;
     color: white;
     padding: 16px 20px;
