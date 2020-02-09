@@ -11,5 +11,5 @@
 ## Link to Github pages
 {https://github.com/Dave-3/Portfolio}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+*{MIT License.}*
+Copyright (c) {2020} **{David Njenga Mburu}**
