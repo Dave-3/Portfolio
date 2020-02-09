@@ -36,17 +36,6 @@ img{
     width: 300px;
     float: left;
 }
-.footer{
-    position: relative;
-    background-color: rgb(32, 26, 26);
-    left: 0;
-    bottom: 0;
-    width: 100%;
-}
-.footer div{
-    color: cornsilk;
-}
-
 .column{
  float: left;
  padding: 30px;
