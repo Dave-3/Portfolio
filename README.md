@@ -5,6 +5,7 @@
 ## Setup/Installation Requirements
 * Simply clone my repository
 * The programme will be downloaded locally into your machine
+* It will be zipped ,unzip the file
 * Use successfully
 ## Technologies Used
 {A simple Html and Css webpage.}
