@@ -37,3 +37,7 @@ body{
     color: cornsilk;
 }
 
+.column{
+ float: left;
+ padding: 30px;
+}
