@@ -10,7 +10,7 @@
 ## Technologies Used
 {A simple Html and Css webpage.}
 ## Link to Github pages
-{ https://dave-3.github.io/Portfolio/.}
+https://dave-3.github.io/Portfolio/
 ### License
 *{MIT License.}*
 Copyright (c) {2020} **{David Njenga Mburu}**
